@@ -1,0 +1,9 @@
+org.example
+org.example.BusinessLogic
+org.example.Connection
+org.example.DataAccess
+org.example.Model
+org.example.Presentation
+org.example.Presentation.ClientPackage
+org.example.Presentation.OrderPackage
+org.example.Presentation.ProductPackage
